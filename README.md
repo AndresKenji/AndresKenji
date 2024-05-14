@@ -35,7 +35,7 @@ Im currently working as a data engineer<br>Im looking to collaborate and learn w
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresKenji&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [//]: <> (## 🐦 Latest Tweet)
-[//]: <> ([![](https://gtce.itsvg.in/api?username=Kenji_Andres)](https://github.com/VishwaGauravIn/github-twitter-card-embed))
+[//]:  ([![](https://gtce.itsvg.in/api?username=Kenji_Andres)](https://github.com/VishwaGauravIn/github-twitter-card-embed))
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
