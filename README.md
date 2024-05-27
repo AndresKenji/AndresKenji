@@ -1,5 +1,9 @@
 # 💫 About Me:
-Im currently working as a data engineer<br>Im looking to collaborate and learn with others developers<br>Im currently learning web development and a bit of data cience<br>Ask me about powershell - python - sqlalchemy<br>Im looking for team working
+I am a Telecommunications Engineer currently working as a Data Engineer. I have a passion for coding and task automation. I possess experience with Go, Python, JavaScript, and PowerShell, as well as experience managing cloud services with AWS and Azure.
+
+I am eager to collaborate and learn with other developers. Currently, I am learning web development and a bit of data science. Feel free to ask me about PowerShell, Python, or SQLAlchemy.
+
+I am looking for opportunities to work in a team environment.
 
 
 ## 🌐 Socials:
