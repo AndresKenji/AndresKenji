@@ -1,10 +1,9 @@
 # 💫 About Me:
-I am a Telecommunications Engineer currently working as a Data Engineer. I have a passion for coding and task automation. I possess experience with Go, Python, JavaScript, and PowerShell, as well as experience managing cloud services with AWS and Azure.
+I am a Telecommunications Engineer currently working as a Cloud Automation Engineer. I have a strong passion for coding and automating tasks. My experience includes working with Go, Python, JavaScript, and PowerShell, as well as managing cloud environments with AWS and Azure.
 
-I am eager to collaborate and learn with other developers. Currently, I am learning web development and a bit of data science. Feel free to ask me about PowerShell, Python, or SQLAlchemy.
+I began my career as a Virtualization Administrator, working with VMware and Hyper-V, then moved into cloud administration, and later transitioned into automation — my dream role, where I could finally focus on coding. In my current position, I combine my cloud expertise with automation to build efficient, scalable solutions.
 
-I am looking for opportunities to work in a team environment.
-
+I enjoy learning and collaborating with other developers. I’m also exploring web development and data science to expand my skills. Feel free to reach out to me about Python, PowerShell, or cloud automation — I’m always happy to share and learn.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Andres.kenji) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kenji_andres) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oarf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kenji_Andres) 
